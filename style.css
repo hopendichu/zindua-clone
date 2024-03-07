@@ -1,0 +1,51 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.navbar{
+    background-color:white;
+    display:flex;
+    padding:40px 10px
+}
+
+.left-content span{
+    padding: 60px;
+    margin-left: 50px;
+    
+}
+img {
+    width:500px;
+    height:500px;
+    
+}
+.right content span{
+    padding-left: 20 px;
+}
+
+.right content span{
+padding-right:30 px ;
+
+}
+h1{
+    color: red;
+}
+.logo img{
+    width:100px;
+    height:130px;
+}
+p{
+    font-size: larger;
+}
+.body{
+    display: flex;
+}
+.apply{
+    background-color: red;
+    
+}
+.explore{
+    background-color: red;
+}
+
+
